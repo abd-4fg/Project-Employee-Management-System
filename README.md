@@ -21,7 +21,6 @@ The employee management system provides a complete way to handle human resource 
   - [Installation](#installation)
 - [Database Schema](#database-schema)
 - [Default Credentials](#default-credentials)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Introduction
